@@ -1,4 +1,6 @@
-<h1 align="center">Hi, we are <code>Zelador</code> a massive 3D world (map) for the dayz gaming community to enjoy! 👋</h1>
+<h1 align="center">Hi, we are <code>Zelador DayZ</code> 👋</h1>
+
+Zelador is a massive 3D world, the largest map ever made for the survival game DayZ.
 
 <p align="center">
   <a href="https://github.com/zeladordayz?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/zeladordayz?style=flat"></a>
